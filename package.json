@@ -1,0 +1,25 @@
+{
+  "name": "webgl",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.17",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "dependencies": {
+    "gl-matrix": "^2.4.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "three": "^0.89.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+canvas {
+  border: 2px dotted blue;
+}
+.wrap {
+  padding: 30px;
+  display: flex;
+}
+ul.menuList {
+  display: flex;
+  flex-direction: column;
+}
+ul.menuList button {
+  margin: 10px 0;
+}
